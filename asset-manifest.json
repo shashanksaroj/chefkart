@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/chefkart/static/css/main.d3fb0107.css",
+    "main.js": "/chefkart/static/js/main.3bbf3f83.js",
+    "static/js/453.3ece24e8.chunk.js": "/chefkart/static/js/453.3ece24e8.chunk.js",
+    "static/media/burger.jpg": "/chefkart/static/media/burger.2967d0bc2120b2f0230e.jpg",
+    "static/media/choco.jpg": "/chefkart/static/media/choco.fef92e9a39fd6830f644.jpg",
+    "static/media/peporon.jpg": "/chefkart/static/media/peporon.c5bd933c819c6e9ffa77.jpg",
+    "static/media/bootstrap-icons.woff?": "/chefkart/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/marpizza.avif": "/chefkart/static/media/marpizza.d753df644feca43d4c85.avif",
+    "static/media/bootstrap-icons.woff2?": "/chefkart/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/chefkart/index.html",
+    "main.d3fb0107.css.map": "/chefkart/static/css/main.d3fb0107.css.map",
+    "main.3bbf3f83.js.map": "/chefkart/static/js/main.3bbf3f83.js.map",
+    "453.3ece24e8.chunk.js.map": "/chefkart/static/js/453.3ece24e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3fb0107.css",
+    "static/js/main.3bbf3f83.js"
+  ]
+}
